@@ -15,4 +15,3 @@ And that’s it! You can start learning!
 
 Hope you enjoy this.
 
-For more tips and tricks regarding Cypress, make sure you visit [my homepage](https://filiphric.com)
