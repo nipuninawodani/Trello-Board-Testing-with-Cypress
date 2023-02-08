@@ -17,11 +17,11 @@ describe('Cookies', () => {
 
     cy
       .get('[data-cy="login-email"]')
-      .type('filip@example.com');
+      .type('nipuni@example.com');
 
     cy
       .get('[data-cy="login-password"]')
-      .type('Asdf.1234#');
+      .type('nipu.1234#');
 
     cy
       .get('[data-cy="login"]')
