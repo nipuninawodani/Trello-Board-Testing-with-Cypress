@@ -3,6 +3,11 @@
 it('Installing plugins', () => {
 
   cy
-    .visit('/board/12982969707');
+    .visit('/');
 
+
+  cy
+    .get('[data-cy=board-item]')
+    .realHover()
+    .should('have.css', 'background-color', 'rgb(5, 90, 140)')
 });
