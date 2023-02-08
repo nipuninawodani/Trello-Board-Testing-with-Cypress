@@ -1,33 +1,50 @@
 {
   "boards": [
     {
-      "name": "groceries",
+      "name": "new board",
       "user": 0,
-      "id": 12982969707,
+      "id": 71790825847,
       "starred": false,
-      "created": "2023-02-07"
+      "created": "2023-02-08"
     }
   ],
   "tasks": [
     {
-      "boardId": 12982969707,
+      "boardId": 71790825847,
       "description": "",
       "completed": false,
-      "listId": 64341900621,
-      "title": "milk",
-      "id": 82025797741,
-      "created": "2023-02-07",
-      "deadline": "2023-02-10",
+      "listId": 30676885284,
+      "title": "task 1",
+      "id": 43697586476,
+      "created": "2023-02-08",
+      "deadline": "2023-02-11",
       "order": 1
+    },
+    {
+      "boardId": 71790825847,
+      "description": "",
+      "completed": false,
+      "listId": 30676885284,
+      "title": "task 2",
+      "id": 52128879696,
+      "created": "2023-02-08",
+      "deadline": "2023-02-11",
+      "order": 0
     }
   ],
   "users": [],
   "lists": [
     {
-      "boardId": 12982969707,
-      "title": "to buy",
-      "id": 64341900621,
-      "created": "2023-02-07"
+      "boardId": 71790825847,
+      "title": "to do",
+      "id": 37218847093,
+      "created": "2023-02-08"
+    },
+    {
+      "boardId": 71790825847,
+      "title": "done",
+      "id": 30676885284,
+      "created": "2023-02-08"
     }
   ]
 }

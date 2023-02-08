@@ -6,11 +6,12 @@ declare namespace Cypress {
   interface Chainable {
 
     /**
-     * Creates a new board via UI
-     *
+     * creates a new board via UI
+     * 
      * @example
      * cy
-     *   .addBoard('board name')
+     *  .addBoard('board name')
+     * 
      */
     addBoard()
   }
