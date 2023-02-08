@@ -18,11 +18,11 @@
   "license": "ISC",
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^1.8.1",
-    "@applitools/eyes-cypress": "^3.20.4",
+    "@applitools/eyes-cypress": "^3.29.1",
     "cypress": "^6.6.0",
-    "cypress-file-upload": "^5.0.2"
+    "cypress-file-upload": "^5.0.8"
   },
   "dependencies": {
-    "cypress-real-events": "^1.3.0"
+    "cypress-real-events": "^1.7.6"
   }
 }
