@@ -3,13 +3,20 @@
 beforeEach(() => {
 
   cy
-    .visit('/');
+  .visit('/')
 
 });
 
 it('Changing the DOM', () => {
 
   cy
-    .get('[data-cy="star"]')
+    .get('[data-cy="board-item"]')
+    .trigger('mouseover')
+    
+    cy
+    .get('[data-cy=star]')
+    .should('be.visible')
+
+    
 
 })

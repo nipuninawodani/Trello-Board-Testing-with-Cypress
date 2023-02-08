@@ -6,6 +6,20 @@
       "id": 12982969707,
       "starred": false,
       "created": "2023-02-07"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 6149503472,
+      "starred": false,
+      "created": "2023-02-08"
+    },
+    {
+      "name": "Board created by .request() command",
+      "user": 0,
+      "id": 23410429681,
+      "starred": false,
+      "created": "2023-02-08"
     }
   ],
   "tasks": [
