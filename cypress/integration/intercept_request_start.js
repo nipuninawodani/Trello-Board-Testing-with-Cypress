@@ -7,6 +7,6 @@ it('Intercept requests', () => {
 
   cy
     .get('[data-cy=board-item]')
-    .should('have.length', 0)
+    .should('have.length', 1)
 
 });
